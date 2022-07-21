@@ -1,2 +1,2 @@
-# react-todo-handson
+# react-handson
 Created with CodeSandbox
